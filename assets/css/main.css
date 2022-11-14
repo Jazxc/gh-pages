@@ -1604,7 +1604,8 @@ textarea {
 
 .post__entry .text-g{
   margin: 3rem auto;
-  max-width: 740px;
+  padding: 0rem 1.5rem;
+  max-width: 700px;
   text-align: justify;}
 
 .post__entry .text-d{
